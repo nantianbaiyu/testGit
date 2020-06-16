@@ -3,7 +3,7 @@ package com.atguigu.git;public class HelloGit {
 		System.out.println("hello git!");
 int a=19; 
 int b =20;
-System.out.printLn(a+b);
+
 	
 	}
 }
